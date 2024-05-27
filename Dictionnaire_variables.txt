@@ -1,0 +1,74 @@
+		- Player : Nom du joueur
+                
+                - Pos : Position
+                
+                - Squad : Nom de l'équipe
+                
+                - Age : Âge du joueur
+                
+                - Born : Année de naissance
+                
+                - MP : Matchs jouées
+                
+                - Min : Minutes jouées
+                
+                - Goals : Buts marqués
+                
+                - Shots : Total des tirs (sans compter les tirs au but)
+                
+                - SoT : Tirs cadrés (ne comprend pas les tirs au but)
+                
+                - ShoDist : Distance moyenne, en mètres, de tous les tirs effectués (ne comprend pas les tirs au 		but)
+                
+                - PasTotCmp% : Pourcentage de réussite des passes
+                
+                - PasTotDist : Distance totale, en yards, que les passes complétées ont parcourue dans toutes les 		directions.
+                
+                - PasShoCmp% : Pourcentage de réussite des passes (passes entre 5 et 15 yards) : passes courtes
+                
+                - PasMedCmp% : Pourcentage de réussite des passes (passes entre 15 et 30 yards) : passes moyennes
+                
+                - PasLonCmp% : Pourcentage de réussite des passes (passes de plus de 30 yards) : passes longues
+                
+                - PasAss : Passes qui mènent directement à un tir (tirs assistés = passes D)
+                
+                - PPA : Passes terminées dans les 18 mètres (surface de réparation)
+                
+                - PasAtt : Passes tentées
+                
+                - CK : Corner
+                
+                - SCA : Actions menant à un tir
+                
+                - GCA : Actions menant à un but
+                
+                - Tkl : Tacle
+                
+                - Blocks : Nombre de fois où le joueur a bloqué le ballon en se plaçant sur sa trajectoire
+                
+                - Int : Interception
+                
+                - Clr : Dégagement
+                
+                - Err : Erreurs conduisant à un tir de l'adversaire
+                
+                - Touches : Nombre de fois qu'un joueur a touché le ballon. Remarque : recevoir une passe, puis 		dribbler, puis envoyer une passe compte                    
+                pour une touche.
+                
+                - ToAtt : Nombre de tentatives de dribble sur les défenseurs.
+                
+                - Carries : Nombre de fois où le joueur a contrôlé le ballon avec ses pieds
+                
+                - CPA : Portées dans les 18 mètres (surface de réparation)
+                
+                - Rec : Nombre de fois où un joueur a reçu une passe avec succès
+                
+                - CrdY : Carton jaune
+                
+                - CrdR : Carton rouge
+                
+                - Off : Hors jeu
+                
+                - Crs : Centre (Passe longue ou moyenne vers le centre du terrain vers le but de l’adversaire)
+                
+                - Recov : Nombre de balles perdues récupérées
