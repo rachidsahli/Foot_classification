@@ -18,11 +18,11 @@
                 
                 - SoT : Tirs cadrés (ne comprend pas les tirs au but)
                 
-                - ShoDist : Distance moyenne, en mètres, de tous les tirs effectués (ne comprend pas les tirs au 		but)
+                - ShoDist : Distance moyenne, en mètres, de tous les tirs effectués (ne comprend pas les tirs au but)
                 
                 - PasTotCmp% : Pourcentage de réussite des passes
                 
-                - PasTotDist : Distance totale, en yards, que les passes complétées ont parcourue dans toutes les 		directions.
+                - PasTotDist : Distance totale, en yards, que les passes complétées ont parcourue dans toutes les directions.
                 
                 - PasShoCmp% : Pourcentage de réussite des passes (passes entre 5 et 15 yards) : passes courtes
                 
@@ -52,7 +52,7 @@
                 
                 - Err : Erreurs conduisant à un tir de l'adversaire
                 
-                - Touches : Nombre de fois qu'un joueur a touché le ballon. Remarque : recevoir une passe, puis 		dribbler, puis envoyer une passe compte                    
+                - Touches : Nombre de fois qu'un joueur a touché le ballon. Remarque : recevoir une passe, puis dribbler, puis envoyer une passe compte                    
                 pour une touche.
                 
                 - ToAtt : Nombre de tentatives de dribble sur les défenseurs.
